@@ -1,0 +1,66 @@
+baseURL = "https://sandbox-devfesttoulouse.firebaseapp.com/"
+languageCode = "en"
+title = "Sporting Club Houston"
+
+# Theme
+theme = "devfest-theme-hugo"
+
+# Params
+
+enableEmoji = true
+enableRobotsTXT = true
+enableMissingTranslationPlaceholders = true
+
+googleAnalytics = "UA-37717223-8"
+
+[params]
+    title = "SC Houston"
+    date = "2019-05-25"
+    description = "Athletics team, distance running and athletic performance training for Houston, TX"
+    images = ["/images/social-share.jpg"]
+    email = "contact@devfesttoulouse.fr"
+    keywords = "athletics, track and field, jumping, running, throwing, high jump, long jump, pole vault, shot put, discus, hammer, javelin, sprints, hurdles, middle distance, distance running, houston"
+    copyright = ":copyright: Sporting Club Houston 2019"
+    cfpUrl = "https://conference-hall.io/public/event/HJRThubF4uYPkb7jSUxi"
+    subscriptionUrl = "http://eepurl.com/dps1j5"
+    appleTouchIcon = "/sch apple touch icon.png"
+    favicon32 = "/schfavicon32.png"
+    favicon16 = "/schfavicon16.png"
+    manifest = "/manifest.json"
+    safariPinnedTab = "/safari-pinned-tab.svg"
+    themeColor = "#673ab7"
+
+[params.logos]
+    jumbo = "/images/sc houston front large.png"
+    header = "/images/sc houston logo text blue.png"
+    footer = "/images/sc houston logo text blue.png"
+
+[languages]
+[languages.en]
+    weight = 1
+    languageName = "gb"
+
+[taxonomies]
+  tag = "tags"
+
+[privacy]
+  [privacy.disqus]
+    disable = true
+  [privacy.googleAnalytics]
+    anonymizeIP = false
+    disable = false
+    respectDoNotTrack = false
+    useSessionStorage = false
+  [privacy.instagram]
+    disable = true
+    simple = false
+  [privacy.twitter]
+    disable = false
+    enableDNT = false
+    simple = false
+  [privacy.vimeo]
+    disable = true
+    simple = false
+  [privacy.youtube]
+    disable = false
+    privacyEnhanced = false
