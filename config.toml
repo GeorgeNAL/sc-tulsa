@@ -64,3 +64,41 @@ googleAnalytics = "UA-37717223-8"
   [privacy.youtube]
     disable = false
     privacyEnhanced = false
+
+[[menu.main]]
+  name="Home"
+  url = "/"
+  weight="-1"
+
+[[menu.main]]
+  name="Programs"
+  url = ""
+  weight="2"
+
+    [[menu.main]]
+      name="Athletics Team"
+      url = "/team"
+      parent = "Programs"
+      weight="1"
+
+    [[menu.main]]
+      name="Distance running"
+      url = "/team"
+      parent = "Programs"
+      weight="1"
+
+    [[menu.main]]
+      name="Athletic Performance"
+      url = "/team"
+      parent = "Programs"
+      weight="1"
+
+[[menu.main]]
+  name="Coaches"
+  url = "/speakers"
+  weight="3"
+
+[[menu.main]]
+  name="Blog"
+  url = "/blog"
+  weight="4"

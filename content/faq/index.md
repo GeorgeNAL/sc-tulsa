@@ -1,9 +1,5 @@
 ---
 title: About us
-menu:
-  main:
-    weight: 80
-    
 draft: false
 ---
 

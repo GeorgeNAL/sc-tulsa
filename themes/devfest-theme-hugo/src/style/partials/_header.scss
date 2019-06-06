@@ -68,6 +68,20 @@ body > header {
       padding: 0;
       display: flex;
       list-style: none;
+
+      
+    }
+
+    .dropdown-menu {
+      display: none;
+    }
+    
+    .dropdown {
+      &:hover {
+        .dropdown-menu {
+          display: block !important;
+        }
+      }
     }
 
     li {
@@ -75,7 +89,7 @@ body > header {
       transition: all var(--animation);
       border-bottom: thin solid transparent;
       border-radius: 5%;
-
+      
       &.active {
         opacity: 1;
         border-bottom-color: currentColor;
