@@ -95,7 +95,7 @@ googleAnalytics = "UA-37717223-8"
 
 [[menu.main]]
   name="Coaches"
-  url = "/speakers"
+  url = "/coaches"
   weight="3"
 
 [[menu.main]]

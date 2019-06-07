@@ -1,5 +1,6 @@
 ---
-title: speakers
+title: Coaches
+type: speakers
 draft: false
 ---
 
