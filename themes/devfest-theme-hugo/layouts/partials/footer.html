@@ -1,6 +1,6 @@
 <footer>
 	<div class="bottom-content">
-
+{{/*
 		<div class="footer-header">
 			<div class="share">
 				<header>{{ i18n "footer_share" }}</header>
@@ -30,15 +30,9 @@
 					{{ end }}
 				</ul>
 			</div>
-			<div class="email">
-				<a href="mailto:{{ .Site.Params.email }}">
-					{{ partial "icon.html" "email" }}
-					{{- .Site.Params.email -}}
-				</a>
-			</div>
 		</div>
-
 		<hr>
+*/}}
 
 		<div class="footer-content">
 			{{ range .Site.Data.footer.content }}
@@ -70,6 +64,16 @@
 					{{ partial "icon.html" "subscribe" }}
 					{{- i18n "subscribe_action" -}}
 				</a>
+			</section>
+			{{ end }}
+			{{ if .Site.Params.subscriptionUrl }}
+			<section class="subscribe">
+				<header>{{ i18n "contact" }}</header>
+				<p>
+					<a href="mailto:{{ .Site.Params.email }}">
+						{{- .Site.Params.email -}}
+					</a>
+				</p>
 			</section>
 			{{ end }}
 		</div>

@@ -73,3 +73,10 @@ other = "No spam, only the latest news and updates!"
 
 [subscribe_action]
 other = "Subscribe"
+
+################
+# Contact #
+################
+
+[contact]
+other = "Contact"
