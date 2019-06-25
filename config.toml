@@ -77,19 +77,19 @@ googleAnalytics = "UA-37717223-8"
 
     [[menu.main]]
       name="Athletics Team"
-      url = "/team"
+      url = "/athletic-performance"
       parent = "Programs"
       weight="1"
 
     [[menu.main]]
       name="Distance running"
-      url = "/team"
+      url = "/distance-running"
       parent = "Programs"
       weight="1"
 
     [[menu.main]]
       name="Athletic Performance"
-      url = "/team"
+      url = "/athletics-team"
       parent = "Programs"
       weight="1"
 
