@@ -1,15 +1,18 @@
 ---
-#id: KkCVbJvhE1OL1Dd51U4t9H54iFT2
-key: george_perry
+title: George Perry
+subtitle: Middle distance
+type: team
 feature: true
 name: George MJ Perry
+url: /coaches/george-perry
 company: Middle distance, distance
-photoURL: "/images/george_profile.jpg"
 socials:
   - icon: linkedin
     link: https://www.linkedin.com/in/georgemperry/
     name: George MJ Perry
 ---
+<div style="float: left; margin-right: 10px">
+![George Perry, Running coach](/images/george-perry.jpg "George Perry")</div> 
 For a brief period in the late 2000s, George Perry thought he wanted to be a lawyer. Bored in the months between finishing his time in the United States Navy and starting law school, Perry answered a Craig’s List ad to lead a morning bootcamp. That led him to the fields of exercise physiology and sports science. He became a personal trainer and rehabilitation coach, while also discovering he was a reasonably competitive age-group distance runner. 
 
 To this day, he doesn’t know if he should curse or thank the people who guided those first few years. But since it got him out of law school after his 1L year and to Texas to study Sports Science and Nutrition at the University of Texas at Austin, we’ll go with thank.

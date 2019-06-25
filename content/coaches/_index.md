@@ -1,11 +1,14 @@
 ---
 title: Coaches
-type: speakers
+type: default
 draft: false
 ---
 
 {{% hero %}}
-<!-- TODO: filter and search -->
+
 {{% /hero %}}
+
+> ## George Perry 
+> [![George Perry, Running coach](/images/george-perry.jpg "George Perry")](/coaches/george-perry) 
 
 
