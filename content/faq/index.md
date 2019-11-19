@@ -7,15 +7,15 @@ draft: false
 
 
 
-## Can youth athletes join SC Houston?
+## Can youth athletes join Tulsa Athletics Club?
 
 Yes! But...
 
-SC Houston’s coaches believe two of the greatest risks to a young athlete are early specialization and over-training. Part of what brought SC Houston coach George Perry into the coaching world was seeing how many collegiate runners were physically and psychologically burned out at age 22, years before they would hit what should be their athletic peak. That burnout, though, can start before an athlete even reaches high school. 
+Tulsa Athletics Club coach George Perry believes two of the greatest risks to a young athlete are early specialization and over-training. Part of what brought him into the coaching world was seeing how many collegiate runners were physically and psychologically burned out at age 22, years before they would hit what should be their athletic peak. That burnout, though, can start before an athlete even reaches high school. 
 
 Young people should play as many sports as possible in as many different contexts as possible: playing a game in the yard with a few friends is just as valuable (may be more so) than the high-pressure, high-dollar industry of travel teams and “development clubs.” 
 
-### SC Houston accepts youth athletes starting at age 13. 
+### Tulsa AC accepts youth athletes starting at age 13. 
 
 Any athlete between the ages of 13 and 17 must meet either condition:
 
@@ -25,7 +25,7 @@ OR
 
 2) Play one competitive sport and have at least two months of no organized activity each year.
 
-SC Houston will not train youth athletes while they are in-season for an outside team, (school or club) nor within three weeks of the end of their most recent season.
+Tulsa AC will not train youth athletes while they are in-season for an outside team, (school or club) nor within three weeks of the end of their most recent season.
 
 
 ## Do you have any other teams besides athletics?

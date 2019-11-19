@@ -1,6 +1,6 @@
-baseURL = "https://sandbox-devfesttoulouse.firebaseapp.com/"
+baseURL = "https://tulsaathleticsclub.com/"
 languageCode = "en"
-title = "Sporting Club Houston"
+title = "Tulsa Athletics Club"
 
 # Theme
 theme = "devfest-theme-hugo"
@@ -14,13 +14,13 @@ enableMissingTranslationPlaceholders = true
 googleAnalytics = "UA-37717223-8"
 
 [params]
-    title = "SC Houston"
-    date = "2019-05-25"
-    description = "Athletics team, distance running and athletic performance training for Houston, TX"
+    title = "Tulsa Athletics Club"
+    date = "2019-11-19"
+    description = "Athletics team, distance running and athletic performance training for Tulsa, OK"
     images = ["/images/social-share.jpg"]
-    email = "contact@devfesttoulouse.fr"
-    keywords = "athletics, track and field, jumping, running, throwing, high jump, long jump, pole vault, shot put, discus, hammer, javelin, sprints, hurdles, middle distance, distance running, houston"
-    copyright = ":copyright: Sporting Club Houston 2019"
+    email = "george.perry@austintrackclub.com"
+    keywords = "athletics, track and field, jumping, running, throwing, high jump, long jump, pole vault, shot put, discus, hammer, javelin, sprints, hurdles, middle distance, distance running, tulsa"
+    copyright = ":copyright: Tulsa Athletics Club 2019"
     cfpUrl = "https://conference-hall.io/public/event/HJRThubF4uYPkb7jSUxi"
     subscriptionUrl = "http://eepurl.com/dps1j5"
     appleTouchIcon = "/sch apple touch icon.png"
@@ -31,9 +31,9 @@ googleAnalytics = "UA-37717223-8"
     themeColor = "#673ab7"
 
 [params.logos]
-    jumbo = "/images/sc houston front large.png"
-    header = "/images/sc houston logo text blue.png"
-    footer = "/images/sc houston logo text blue.png"
+    jumbo = "/images/tulsa ac front large.png"
+    header = "/images/tulsa ac logo text blue.png"
+    footer = "/images/tulsa ac logo text blue.png"
 
 [languages]
 [languages.en]
