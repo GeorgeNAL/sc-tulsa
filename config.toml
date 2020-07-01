@@ -15,12 +15,12 @@ googleAnalytics = "UA-37717223-8"
 
 [params]
     title = "Tulsa Athletics Club"
-    date = "2019-11-19"
+    date = "2020-07-01"
     description = "Athletics team, distance running and athletic performance training for Tulsa, OK"
     images = ["/images/social-share.jpg"]
     email = "george.perry@austintrackclub.com"
     keywords = "athletics, track and field, jumping, running, throwing, high jump, long jump, pole vault, shot put, discus, hammer, javelin, sprints, hurdles, middle distance, distance running, tulsa"
-    copyright = ":copyright: Tulsa Athletics Club 2019"
+    copyright = ":copyright: Tulsa Athletics Club 2020"
     cfpUrl = "https://conference-hall.io/public/event/HJRThubF4uYPkb7jSUxi"
     subscriptionUrl = "http://eepurl.com/dps1j5"
     appleTouchIcon = "/sch apple touch icon.png"
@@ -76,7 +76,7 @@ googleAnalytics = "UA-37717223-8"
   weight="2"
 
     [[menu.main]]
-      name="Athletics Team"
+      name="Athletics Performance"
       url = "/athletic-performance"
       parent = "Programs"
       weight="1"
@@ -88,7 +88,7 @@ googleAnalytics = "UA-37717223-8"
       weight="1"
 
     [[menu.main]]
-      name="Athletic Performance"
+      name="Athletic Team"
       url = "/athletics-team"
       parent = "Programs"
       weight="1"
