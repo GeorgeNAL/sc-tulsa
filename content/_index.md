@@ -18,13 +18,13 @@ title: Home
 
 {{% /jumbo %}}
 
-{{% home-info what="Sport:1,Team:1,City:1" class="primary" %}}
+{{% home-info what="Test out this text" class="primary" %}}
 ## What is Tulsa Athletics Club?
 
 Athletics deserves a city like Tulsa. If you run, throw or jump (or are ready to learn), let's make it happen. 
 {{% /home-info %}}
 
-<!-- ... -->
+&nbsp;
 
 {{% home-subscribe  class="primary" %}}
 
@@ -34,7 +34,6 @@ Athletics deserves a city like Tulsa. If you run, throw or jump (or are ready to
 
 <!-- ... -->
 
-&nbsp;
 &nbsp;
 
 {{% home-location
