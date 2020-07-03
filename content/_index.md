@@ -22,9 +22,10 @@ title: Home
 
 {{% home-subscribe  class="primary" %}}
 
-## What is Tulsa Athletics Club?
+# What is Tulsa Athletics Club?
 
-### Athletics deserves a city like Tulsa. If you run, throw or jump (or are ready to learn), let's make it happen. 
+## Athletics deserves a city like Tulsa. If you run, throw or jump (or are ready to learn), let's make it happen. 
+
 {{% /home-subscribe %}}
 
 <!-- ... -->

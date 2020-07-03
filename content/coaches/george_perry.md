@@ -1,9 +1,9 @@
 ---
 key: george_perry
-#title: George Perry
-#subtitle: Middle distance
+title: George Perry
+subtitle: Middle distance
 feature: false
-#type: team
+type: team
 feature: true
 name: George MJ Perry
 photoURL: /coaches/george-perry.jpg
