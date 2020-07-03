@@ -18,20 +18,13 @@ title: Home
 
 {{% /jumbo %}}
 
-
-
-{{% home-info what="Participants:1000,Day:1,Sessions:36,Parallel Tracks:4" class="primary"%}}
-## What is Tulsa Athletics Club?
-
-Athletics deserves a city like Tulsa. If you run, throw or jump (or are ready to learn), let's make it happen. 
-{{% /home-info %}}
-
 <!-- ... -->
 
 {{% home-subscribe  class="primary" %}}
 
-## Come play our sports, or train with us to get better at your own. And yes, athletics and distance running are sports.
+## What is Tulsa Athletics Club?
 
+Athletics deserves a city like Tulsa. If you run, throw or jump (or are ready to learn), let's make it happen. 
 {{% /home-subscribe %}}
 
 <!-- ... -->
