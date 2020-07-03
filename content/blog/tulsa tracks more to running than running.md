@@ -1,7 +1,7 @@
 ---
 title: "Going around Tulsa tracks: More to running than just running"
 breif: Too few runners are athletes, in large part because we rarely teach runners the full range of their “parent” sport, athletics.
-image: /images/blog/broken-arrow-high-school-throws-circle.jpg
+image: /images/blog/broken-arrow-throw-circle.jpg
 date: 2020-06-30
 draft: false
 ---
@@ -19,7 +19,7 @@ As athletes move through adolescence, we can start identifying what their best d
 
 And if an athlete ends up never being particularly good at any one event or discipline, this system is its own backup plan: they can remain multi athletes! Or, if athletics is truly not for them, they ready to learn and succeed in any other sport, for what sport doesn’t rely on some combination of running, throwing or jumping?
 
-A recent <a href="coachup.com/me/georgeperry"review of our coach</a> said:
+A recent <a href="coachup.com/me/georgeperry">review of our coach</a> said:
 
 “Coach George is good at teaching you things that you would never think would help you become a better runner.”
 

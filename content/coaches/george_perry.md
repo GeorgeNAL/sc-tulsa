@@ -1,15 +1,13 @@
 ---
-title: George Perry
-subtitle: Middle distance
-type: team
+key: george_perry
+#title: George Perry
+#subtitle: Middle distance
+feature: false
+#type: team
 feature: true
 name: George MJ Perry
-url: /coaches/george-perry
+photoURL: /coaches/george-perry.jpg
 company: Middle distance, distance
-socials:
-  - icon: linkedin
-    link: https://www.linkedin.com/in/georgemperry/
-    name: George MJ Perry
 ---
 <div style="float: left; margin-right: 10px">
 ![George Perry, Running coach](/images/george-perry.jpg "George Perry")</div> 
