@@ -20,11 +20,21 @@ title: Home
 
 
 
-{{% home-info %}}
+{{% home-info what="Participants:1000,Day:1,Sessions:36,Parallel Tracks:4" class="primary"%}}
 ## What is Tulsa Athletics Club?
 
-Come play our sports, or train with us to get better at your own. And yes, athletics and distance running are sports. 
+Athletics deserves a city like Tulsa. If you run, throw or jump (or are ready to learn), let's make it happen. 
 {{% /home-info %}}
+
+<!-- ... -->
+
+{{% home-subscribe  class="primary" %}}
+
+## Come play our sports, or train with us to get better at your own. And yes, athletics and distance running are sports.
+
+{{% /home-subscribe %}}
+
+<!-- ... -->
 
 
 {{% home-location
@@ -41,7 +51,7 @@ Tulsa has lots of places for Tulsa AC to call home. Let's find the best to call 
 
 {{% album images="/images/Tulsa_Tracks/broken-arrow-freshman-academy-curve.jpg, /images/Tulsa_Tracks/broken-arrow-freshman-academy-jump-pit.jpg, /images/Tulsa_Tracks/broken-arrow-freshman-academy-pole-vault.jpg, /images/Tulsa_Tracks/memorial-high-school-throw.jpg, /images/Tulsa_Tracks/sand-springs-jumps.jpg, /images/Tulsa_Tracks/broken-arrow-high-school-throws-circle.jpg, /images/Tulsa_Tracks/sand-springs-throws-circles.jpg, /images/Tulsa_Tracks/sand-springs-track.jpg" %}}
 
-### Throw. Jump. Run. TULSA.
+## Throw. Jump. Run. TULSA.
 
 
 {{% /album  %}}

@@ -1,6 +1,6 @@
 ---
 title: "Going around Tulsa tracks: More to running than just running"
-breif: Too few runners are athletes, in large part because we rarely teach runners the full range of their “parent” sport, athletics.
+brief: Can you be an athlete without athletics? 
 image: /images/blog/broken-arrow-throw-circle.jpg
 date: 2020-06-30
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: "Heard around a Tulsa track: 'Why don't we do any normal stretching?'"
-brief: The second-worst thing about static stretching is that even young athletes think of it as “normal.”
+brief: Beneficial is better than normal
 image: /images/blog/sand-springs-track.jpg
 data: 2020-06-30
 draft: false
@@ -25,4 +25,4 @@ And there we have an even more fundamental disagreement with static stretchers t
 
 The only situation where static stretching could have a place is after a truly exhausting long run. But even then, it’s only one option among many, and hardly the best. It’s not as detrimental post-exhaustive run as it otherwise is. Hardly a ringing endorsement. And there are many other things distance runners can do after their long runs that not only are “not as detrimental” but are truly beneficial and performance enhancing.
 
-That’s why we don’t do “any normal stretching.” Our emphasis on mobility over flexibility, and athletic skills above all else, keeps our athletes loose when and where they need to be loose, tense and stuff when and where they need to be tense and stiff, and hopefully recognizing a better way to do normal.
+That’s why we don’t do “any normal stretching.” Our emphasis on mobility over flexibility, and athletic skills above all else, keeps our athletes loose when and where they need to be loose, tense and stuff when and where they need to be tense and stiff, and hopefully recognizing a better way to decide what's normal.
