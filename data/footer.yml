@@ -15,7 +15,7 @@ content:
         url: /blog/
         newTab: false
       - name: Manager / coach bio
-        url: /coaches/george-perry
+        url: /coaches/george_perry
 
 #  - title: footer_follow_us
 #   links:
