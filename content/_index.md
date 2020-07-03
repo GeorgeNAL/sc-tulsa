@@ -19,11 +19,15 @@ title: Home
 {{% /jumbo %}}
 
 {{% home-info what="Sport:1,Team:1,City:1" class="primary" %}}
+<div class="left">
 ## What is Tulsa Athletics Club?
 
 Athletics deserves a city like Tulsa. If you run, throw or jump (or are ready to learn), let's make it happen. 
+</div>
 
+<div class="right">
 ## Test text
+</div>
 {{% /home-info %}}
 
 &nbsp;
