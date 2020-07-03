@@ -66,10 +66,10 @@ other = "Code of Conduct"
 # Subscription #
 ################
 [newsletter]
-other = "Newsletter"
+other = "You've gone this far!"
 
 [subscribe_notice]
-other = "No spam, only the latest news and updates!"
+other = "Into athletics, running or athletic performance? We should talk!"
 
 [subscribe_action]
 other = "Tell us about yourself"

@@ -2,12 +2,12 @@
 title: "Heard around a Tulsa track: 'Why don't we do any normal stretching?'"
 brief: Beneficial is better than normal
 image: /images/blog/sand-springs-track.jpg
-data: 2020-06-30
+data: 2020-07-01
 draft: false
 ---
 The second-worst thing about static stretching is that even young athletes think of it as “normal.”
 
-The worst thing about it is how detrimental it is to athletic performance, from an immediate <a href="https://journals.lww.com/nsca-jscr/Fulltext/2008/09000/The_Effect_of_Static_Stretching_on_Phases_of.5.aspx">degradation of an athlete’s ability to produce power</a> to the short-, medium- and long-term effects of <a href="https://pubmed.ncbi.nlm.nih.gov/28161870/>increasing muscle slack</a>, disrupting the coordination between muscles working together towards a given movement, physically damaging to the muscle tissue and severing the relationship between range of motion and the athlete’s ability to move through that range of motion.  
+The worst thing about it is how detrimental it is to athletic performance, from an immediate [degradation of an athlete’s ability to produce power](https://journals.lww.com/nsca-jscr/Fulltext/2008/09000/The_Effect_of_Static_Stretching_on_Phases_of.5.aspx) to the short-, medium- and long-term effects of increasing muscle slack, [disrupting the coordination between muscles](https://pubmed.ncbi.nlm.nih.gov/28161870/) working together towards a given movement, physically damaging the muscle tissue and severing the relationship between range of motion and the athlete’s ability to move through that range of motion.  
 
 Static stretching holds a unique place in exercise physiology research. First, there is a remarkable consensus around the negative effects of static stretching. At best, some studies note no detectable impact. Congratulations, you’re not making anything worse! But why should we do something that doesn’t make athletic performance better? What’s the point of any of this if it’s going to keep you right where you are?
 
