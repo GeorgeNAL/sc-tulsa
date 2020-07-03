@@ -2,7 +2,7 @@
 title: "Heard around a Tulsa track: 'Why don't we do any normal stretching?'"
 brief: Beneficial is better than normal
 image: /images/blog/sand-springs-track.jpg
-data: 2020-07-01
+date: 2020-07-01
 draft: false
 ---
 The second-worst thing about static stretching is that even young athletes think of it as “normal.”
