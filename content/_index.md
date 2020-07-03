@@ -18,16 +18,11 @@ title: Home
 
 {{% /jumbo %}}
 
-{{% home-info what="Sport:1,Team:1,City:1" class="primary" %}}
-<div class="inner">
+{{% home-info what="Sport:1,Disciplines:3,Events:9+,City:1" class="primary" %}}
 ## What is Tulsa Athletics Club?
 
 Athletics deserves a city like Tulsa. If you run, throw or jump (or are ready to learn), let's make it happen. 
-</div>
 
-<div class="inner">
-## Test text
-</div>
 {{% /home-info %}}
 
 &nbsp;
