@@ -1,6 +1,6 @@
 ---
 title: "What if there is no cross country in Tulsa this fall?"
-brief: Runners will race in Tulsa. That we know for sure 
+brief: Runners will race in Tulsa. That we know for sure. 
 image: /images/Tulsa_tracks/broken-arrow-freshman-academy-curve.jpg
 date: 2020-07-11
 draft: false
