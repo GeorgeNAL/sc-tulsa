@@ -1,5 +1,5 @@
 ---
-title: "Tulsa Athletics Club ready to be the sport "pod" as schools go AWOL"
+title: "Tulsa Athletics Club ready to be the sport 'pod' as schools go AWOL"
 brief: Multisport clubs were pods before pods were a thing.
 image: /images/Tulsa_tracks/sand-springs-jumps.jpg
 date: 2020-08-07
