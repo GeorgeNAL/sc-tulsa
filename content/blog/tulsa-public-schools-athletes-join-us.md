@@ -22,12 +22,12 @@ We can’t do much about football. But if your child (or you, the athlete, if yo
 Cross country runners, in particular, benefit from our years of experience [working with track & field athletes](https://tulsaathleticsclub.com/coaches/george_perry/); and even more so given the pathetic level of coaching and advice we’re finding is common in the area (an upcoming “Heard around Tulsa tracks blog” will be about coaches encouraging sprinters to join cross country for the fall so they can “get in some workouts”). We may also go ahead with presenting some kind of race or meet this fall so that those track athletes who did not get a chance to compete last spring and are being excluded from racing this fall will have a chance to throw down some times and flare off some competitive fuel.
 
 Athletes from all sports are welcome and will benefit from [our athletic performance programs](coachup.com/me/georgeperry
-). We are working on group options - en route to our ambition of being a true athletics club - so students will not have to give up the social benefits of sports (another thing about which TPS seems blandly dismissive).
+). We are working on group options - en route to our ambition of being a true athletics club - so students will not have to give up the social benefits of sports (another thing about which TPS - and, to be fair, many of the other schools in the area - seems blandly dismissive).
 
 Please <a href="emailto:george.perry@austintrackclub.com">send us an e-mail</a> or, before deciding to do that, read some of our other blogs to learn more about what we do and how we do it. We’re new in Tulsa, but we are 100% here for Tulsa’s athletes of all ages.
 
 No school? No school sports? No problem. In fact, this could be great for us.
 
-<emOh, and if in-person learning returns before the end of the fall semester, “distance” students will not be welcomed back, which means they would probably be ineligible for winter sports as well.</em>
+<em>Oh, and if in-person learning returns before the end of the fall semester, “distance” students will not be welcomed back, which means they would probably be ineligible for winter sports as well.</em>
 
 <em>Photo credit: Janice Waltzer, [Flickr](https://flic.kr/p/azXmu), under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).</em>
