@@ -2,8 +2,11 @@
 title: "Heard around Tulsa tracks: 'Sprinters should hop in with the cross-country team'"
 brief: Sprinting helps cross-country more than the other way around. 
 image: /images/blog/cross-country-runners.jpg
-date: 2020-08-17 06:00:00
-tags: tulsa, track & field, cross-country
+date: 2020-08-17
+tags:
+- tulsa
+- track & field
+- cross-country
 draft: false
 ---
 Normally, when a coach tells one of his players to play a different sport in the off-season, we are wholly in approval and more than a bit pleasantly surprised. Early- and over-specialization in youth sports is one of the most debilitating aspects of the American youth sport system, one that affects American sports at all ages and levels (particularly in track & field and distance running).
