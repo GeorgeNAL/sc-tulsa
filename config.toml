@@ -28,7 +28,7 @@ googleAnalytics = "UA-37717223-8"
     favicon16 = "/schfavicon16.png"
     manifest = "/manifest.json"
     safariPinnedTab = "/safari-pinned-tab.svg"
-    themeColor = "#673ab7"
+    themeColor = "#162b49"
 
 [params.logos]
     jumbo = "/images/tulsa ac front large.png"
