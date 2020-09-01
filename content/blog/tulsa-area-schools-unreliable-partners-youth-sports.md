@@ -1,7 +1,7 @@
 ---
 title: "Tulsa-area schools are unreliable partners for youth sports"
 brief: Tulsa-area schools are dismissing sports as loosely as they are dismissing their students.
-image: /images/blog/pryor-track-stadium.jpg
+image: /images/pryor-track-stadium.jpg
 date: 2020-09-01
 tags:
 - tulsa
@@ -11,7 +11,9 @@ tags:
 - athletic performance
 draft: false
 ---
-Back-to-school didn’t even last into September for several Tulsa-area school districts. Apparently, in the midst of all the politics, virtual-hybrid models, Zoom conference calls, sanitation protocols and who knows what else, school administrators didn’t think to plan for most obvious, predictable, inevitable event of the new school year: students testing positive for COVID-19.
+### Back-to-school didn’t even last into September for several Tulsa-area school districts. If the districts can't figure out school, no one should count on them for school sports.
+
+Apparently, in the midst of all the politics, virtual-hybrid models, Zoom conference calls, sanitation protocols and who knows what else, school administrators didn’t think to plan for most obvious, predictable, inevitable event of the new school year: students testing positive for COVID-19.
 
 Well, that’s one possibility, that they didn’t plan for it.
 
